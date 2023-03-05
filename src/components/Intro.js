@@ -7,7 +7,7 @@ const Intro = () => {
         <Row>
           <Col>
             <div className="title">NONTON GRATIS</div>
-            <div className="title">GAK PAKE KARCIS</div>
+            <div className="title">G PAKE BELI</div>
             <div className="introButton mt-4 text-center">
               <Button variant="dark">Lihat Semua List</Button>
             </div>
